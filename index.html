@@ -3,19 +3,59 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hello Bulma!</title>
+    <title>Andreas Baumgartner - andreas.bz.it</title>
     <link rel="stylesheet" href="bulma.min.css">
+    <link rel="stylesheet" href="custom.css">
+
+    <link rel="openid2.provider" href="https://openid.stackexchange.com/openid/provider">
+    <link rel="openid2.local_id" href="https://openid.stackexchange.com/user/4ea46090-f419-4a20-8119-22cffc9be2b5">        
+    <link rel="me" href="https://mastodon.social/@bmgnrs">
   </head>
   <body>
-  <section class="section">
-    <div class="container">
-      <h1 class="title">
-        Hello World
-      </h1>
-      <p class="subtitle">
-        My first website with <strong>Bulma</strong>!
-      </p>
-    </div>
-  </section>
+
+    <!-- Title -->
+    <section class="section">
+      <div class="columns bmgnrs-violet-bg">
+        <div class="column is-full section has-text-centered">
+          <h2 class="title is-1 has-text-white-ter">Andreas Baumgartner</h2>
+          <h3 class="subtitle is-3 has-text-white-ter">Developer</h3>
+        </div>
+      </div>
+    </section>
+
+    <!-- Columns -->
+    <section class="section">
+      <div class="columns">
+
+        <!-- About me -->
+        <div class="column">
+          <h2 class="title is-3">About me</h2>
+          <p class="my-3">
+            I'm a software developer and live in a small town in the Italian Alps, close to the Austrian border. 
+            Besides coding (Backend, Frontend, Web), I'm interested in IT topics in general.</p>
+          <p class="my-3">These days I work a lot with TypeScript (Node, Vue3), Python (Django, Flask) and GraphQL, but I'm experienced with PHP (Laravel, Wordpress) as well.</p>
+          <p class="my-3">Other interests include politics, sports (e.g. mountainbiking and snowboarding) and music (preferably Metal, but open to almost all genres).
+          </p>
+        </div>
+
+        <!-- Image -->
+        <div class="column">
+          <figure class="image container" style="width:250px; height: 250px;">
+            <img class="is-rounded" src="avatar.jpg">
+          </figure>
+        </div>
+
+        <!-- Details -->
+        <div class="column">
+          <h2 class="title is-3">Details</h2>
+          <p class="my-3"><span class="subtitle has-text-weight-bold">Name:</span><br />Andreas Baumgartner</p>
+          <p class="my-3"><span class="subtitle has-text-weight-bold">Job:</span><br />Software Developer</p>
+          <p class="my-3"><span class="subtitle has-text-weight-bold">Location:</span><br />Bruneck, Italy</p>
+          <p class="my-3"><span class="subtitle has-text-weight-bold">Usernames:</span><br />bmgnrs, abaumg</p>
+          <p class="my-3"><span class="subtitle has-text-weight-bold">Impostor syndrome:</span><br />Yes ;-)</p>
+        </div>
+      </div>
+    </section>
+
   </body>
 </html>

@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Average+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+
+* { font-family: 'Average Sans', sans-serif; }
+
+.is-1, .is-3 { font-family: 'Cabin Sketch'; color:rgb(103, 46, 117) }
+.bmgnrs-violet-bg { background-color: rgb(103, 46, 117); }
