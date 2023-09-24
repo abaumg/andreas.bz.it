@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/bmgnrs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.andreas.bz.it
+  * I am bmgnrs (https://keybase.io/bmgnrs) on keybase.
+  * I have a public key ASCr_zmjorUhYWiMSqxbW_wfvZ9uwBIgYe6_YMMYnrbZkQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f55cbd578c6f7bd975fcc73bd78c9bae2703cb5388c585e769433f2961d249220a",
+      "host": "keybase.io",
+      "kid": "0120abff39a3a2b52161688c4aac5b5bfc1fbd9f6ec0122061eebf60c3189eb6d9910a",
+      "uid": "7dd91b19d28423a064b553f70d8df019",
+      "username": "bmgnrs"
+    },
+    "merkle_root": {
+      "ctime": 1695565405,
+      "hash": "e89185e655b402144d79d52241e5ada10f3542ddd1d0ec5fef2bfc174fa521b2935ad9318e49813b083b7196b47754c7a2672e4340a94f63b3086811a9d7386b",
+      "hash_meta": "00538f4db3d6100a808685b8531a23562e3e836250c69f910149810a2255466c",
+      "seqno": 24954857
+    },
+    "service": {
+      "entropy": "nNHiOLznNuDiU0jQm4drw/6n",
+      "hostname": "www.andreas.bz.it",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.2"
+  },
+  "ctime": 1695565429,
+  "expire_in": 504576000,
+  "prev": "24053a5a35a861ae6755c127406bfd268edefe788a2c3e531809889256a24cf1",
+  "seqno": 77,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgq/85o6K1IWFojEqsW1v8H72fbsASIGHuv2DDGJ622ZEKp3BheWxvYWTESpcCTcQgJAU6WjWoYa5nVcEnQGv9Jo7e/niKLD5TGAmIklaiTPHEIHTpQ8JlOkpoccJmfDECpwAELSoQFba36hmJye5P84l5AgHCo3NpZ8RAdrNASFmbvlVN5QV2aFuxo8rJOIAH3/oEU/6JfjL+S3RWHDfa1dOn3kLRFnhhsQ7tZQxVnkBn5w1sVYEH0O9lC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICyP9FpKqyNRHhhInbrLeFB5yf9H0uNMzcsbdBEdzcIBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bmgnrs
+
+==================================================================
+
